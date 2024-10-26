@@ -1,95 +1,83 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # [Project Name] 🎯
-
+Pair & Flare
 
 ## Basic Details
-### Team Name: [Name]
+This webpage, Pair & Flare, is a fun, interactive platform that lets users discover unique and unusual snack pairings, rate them, and enjoy whimsical animations along the way. Curing both their boredom as well as their hunger.
+### Team Name: Useless minds
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
+- Team Lead: Shadha Shareef - TKM College of Engineering
+- Member 2: Saniya Jose - TKM College of Engineering
+- Member 3: Elma Elizabeth Anish - TKM College of Engineering
+- 
 ### Project Description
-[2-3 lines about what your project does]
+A simple, fun and engaging website that lets your taste bubs go wild with the various combinations of food.
+THere are mainly two features:
+1) When the user clicks "Generate Snack Pair," the page presents a randomly selected, quirky snack combination with an image and description.
+2) Users can rate each snack pairing by clicking on a star rating (1 to 5 stars) after trying a snack combination.
+3) A compactibility test for food items.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
+The problem of "snack fatigue", the desperate feeling of wanting to eat something that has been barely tried by 1/3rd of the human population.
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A colorful webiste that not only keeps you wanting for more but also makes you try all the different weird combinations and rate them. Added feature of finding the compactibility of two food items.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML, CSS, JAVASCRIPT
+- BOOTSTRAP
+- Text Editor, Image hosting Service, Ai tools
 
 ### Implementation
 For Software:
+1. Planning the Structure
+2. Setting Up the HTML Structure
+3. Styling with CSS
+4. Adding Interactivity with JavaScript
+
 # Installation
-[commands]
+
 
 # Run
-[commands]
+Go to VS code, click run and then run without debugging
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![SC 1](https://github.com/user-attachments/assets/34877889-69ea-4342-b7a3-f884a8c64dd1)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![SC 2](https://github.com/user-attachments/assets/46ccf44e-e3c5-4e44-9362-68392ca8d6b5)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![SC 3](https://github.com/user-attachments/assets/63ebdbf8-69ee-4e72-8375-11fdbe753c6e)
+
+![SC 4](https://github.com/user-attachments/assets/ccfb194f-e188-4cef-af51-df6e4497d4a2)
+
+
+
+
+
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1GEBwLQYQcnyIW4R2kK40opGaZscCvs6E/view?usp=drive_link
 
+The video gives a brief description on how the website works
 # Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Shadha Shareef: Reveiws
+- Saniya Jose: Front page and linking of other pages with it
+- Elma Elizabeth Anish: Random Snack Generator and compactibility
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
