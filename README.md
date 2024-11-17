@@ -1,7 +1,7 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
-Pair & Flare
+# [Pair & Flare] 🎯
+Hosted link is given below: https://pairandflare-three.vercel.app/
 
 ## Basic Details
 This webpage, Pair & Flare, is a fun, interactive platform that lets users discover unique and unusual snack pairings, rate them, and enjoy whimsical animations along the way. Curing both their boredom as well as their hunger.
